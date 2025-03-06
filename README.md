@@ -31,3 +31,30 @@ Result.
 All the team members and mentors weighed all the points given as input in the discussions and were collectively able to reach an agreement.
 My colleague felt that his opinions were taken care off and well addressed, and was convinced why proceeding with his approach would not have given results.
 
+#Discuss a situation where you had to deal with a decision you had taken had failed.
+
+Situation :
+
+After the successful shipping of the Astrophoto feature of the Expert RAW app which was my responsibilty. I urged my mentor to 
+add the 200MP feature in it as well as it was already planned be added in the upcoming release. The application team had compared as well that 
+they can support the UI and integration of the 200MP request as well.
+
+Task: 
+
+Along with the expected deliverables the additional feature was also shipped and was tested on System side and the Android kernel side.
+All the required ATS and CTS had passed successfully and the feature was shipped.
+
+Action : 
+
+The expected deliverables did perform according to Samsung standards but the additional sensor capability failed and resulted in pixelated capture
+caused a lot of concern and complaints about the feature. The main reason was the hardware team had not completedly tested the sensor capability 
+and were still working on the integration of 200 MP capacity.
+
+As a result we rolled back out changes in the very same day, tested back all the deliverables after successfully completing all the checkpoints 
+we again pushed out the changes. I had made myself available past the working hours in order to address any immediate concerns that might
+occurr due to our changes.
+
+Result : 
+
+I was appreciated for delivering what was expected in time and also appreciated for delivering what was expected in the future as well by anticipating it.
+But I was advised that in order to ship something extra it is always imperative all the teams are ready for it.
