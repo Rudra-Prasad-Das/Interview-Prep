@@ -1,5 +1,16 @@
 # Interview-Prep
 Primarily for the Culture Fit rounds
+# Why you decided to move? What would you change from your previous team/company? Have you made any attempt to change it - how was the result?
+
+Situation : 
+
+During my stay at Samsung I did have a good learning experience on Android, Native C , C++, Hardware Design and Computer Vision Algorithms,
+I decided for a move because I have worked on several flagship products like S24, S25 and Fold 6, Fold 7. All the new products were 
+mostly an interation of their previous generations the only brainstorming required is minute optimisations and change of design as provided
+by Qualcomm when they change their chipset.
+Apart from the brainstorming sessions during the patent meeting, I wanted to increase my horizons in the software design and architecture as
+well. This is when I felt exploring new opportunities would satisfy my thist to keep myself updated with new technologies and designs.
+
 # Discuss a time when you had to deal with a tough colleague
 
 This question can have several possible variations like,
