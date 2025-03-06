@@ -31,7 +31,7 @@ Result.
 All the team members and mentors weighed all the points given as input in the discussions and were collectively able to reach an agreement.
 My colleague felt that his opinions were taken care off and well addressed, and was convinced why proceeding with his approach would not have given results.
 
-#Discuss a situation where you had to deal with a decision you had taken had failed.
+# Discuss a situation where you had to deal with a decision you had taken had failed.
 
 Situation :
 
