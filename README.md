@@ -1,5 +1,8 @@
 # Interview-Prep
 Primarily for the Culture Fit rounds
+https://leetcode.com/discuss/post/5963463/googlyness-frequently-asked-questions-by-5ii3/
+
+
 # Why you decided to move? What would you change from your previous team/company? Have you made any attempt to change it - how was the result?
 
 Situation : 
